@@ -42,7 +42,7 @@
     "@types/jest": "^27.4.0",
     "@types/node": "^17.0.16",
     "assemblyscript": "^0.19.16",
-    "babel-loader": "^8.1.0",
+    "babel-loader": "^9.1.0",
     "benchmark": "^2.1.4",
     "bundle-loader": "^0.5.6",
     "coffee-loader": "^1.0.0",
